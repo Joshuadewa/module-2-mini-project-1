@@ -1,0 +1,12 @@
+my-app/
+node_modules/
+public/
+src/
+App.css
+App.jsx
+index.css
+main.jsx
+.gitignore
+package.json
+README.md
+vite.config.js
